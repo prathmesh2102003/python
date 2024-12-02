@@ -1,1 +1,1 @@
-prit("welcome to my repository version 1)
+rit(welcome to my repository version 1)
